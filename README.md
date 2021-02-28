@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  -->
 ### :technologist: [LinkedIn](https://www.linkedin.com/in/sbwakle/)
 ### :writing_hand: Writing on [Medium](https://medium.com/tech-journo)
-### ![](https://komarev.com/ghpvc/?username=sachinwakle)
-
+## ![](https://komarev.com/ghpvc/?username=sachinwakle)
+![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinwakle)
