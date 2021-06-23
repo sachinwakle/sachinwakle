@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
-### :technologist: [LinkedIn](https://www.linkedin.com/in/sbwakle/)
-### :writing_hand: Writing on [Medium](https://medium.com/tech-journo)
+
+<a target="_blank" href="https://www.linkedin.com/in/sbwakle"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sachinwakle2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/sachinwakle01"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+<!-- ### :technologist: [LinkedIn](https://www.linkedin.com/in/sbwakle/) -->
+### :writing_hand: Writing on <a target="_blank" href="https://medium.com/tech-journo"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> 
+
+
 ## ![](https://komarev.com/ghpvc/?username=sachinwakle)
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinwakle)
 
