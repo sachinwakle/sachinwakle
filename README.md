@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 ## Github Stats
 ### ![](https://komarev.com/ghpvc/?username=sachinwakle)
-![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinwakle)
+![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinwakle&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinwakle&layout=compact&langs_count=10)](https://github.com/sachinwakle/github-readme-stats)
+
 
 
