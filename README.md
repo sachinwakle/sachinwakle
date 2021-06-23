@@ -1,7 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![Hi](https://github.com/sachinwakle/sachinwakle/blob/ca7b5777fe59396aa2d5a5c297c20c675cd6895d/intro.gif)
 
-## It's
-![Sachin Wakle](./sw.svg)
+<!-- ## It's
+![Sachin Wakle](./sw.svg) -->
 
 
 <!-- **sachinwakle/sachinwakle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
