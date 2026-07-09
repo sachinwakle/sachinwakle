@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" width="100%" alt="Sachin Wakle" />
+<img src="profile-banner-v4.png" width="100%" alt="Sachin Wakle" />
 
 # Hey, I'm Sachin 👋
 ### Full-stack developer · 10 years in · now building my own products
